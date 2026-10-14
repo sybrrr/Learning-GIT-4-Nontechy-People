@@ -7,8 +7,25 @@ I had to research Git vocabulary terms to learn page vs file they are the consid
 
 I found in GitHub a page is consider a file so every time you want to add a new page of content to your repository you have to add a **FILE**. It seemed odd to me but this is the beauty of Git. 
 
-[Creating New Files] (https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) 
-This article is helpful but it is outdated since the purpose changes button has been updated to Save Changes. 
+**So that's the tip, click add File to add more content.**
+
+
+
+
+<img width="2464" height="1150" alt="image" src="https://github.com/user-attachments/assets/4927a6dc-3a96-4c30-ae13-4bfffd4ee3ff" />   
+
+
+
+
+
+
+  
+
+
+
+
+This article is helpful but it is outdated since the purpose changes button has been updated to Save Changes.  [Creating New Files] (https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) 
+
 
 # File Types
 After learning how to properly emphasis text, I noticed it wasn't working on new repositories I built. Even when I copied and pasted from an working repository. Finally, the file name caught my attention I wasn't adding the proper file extension after the file name. The moment I did all my code activated! **Bold**and  _italics_ everywhere!
